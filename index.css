@@ -154,6 +154,10 @@ th {
     align-items: center;
     justify-content: center;
   }
+  .navbar-container {
+    justify-content:space-between;
+  }
+  
 }
 @media(max-width: 479px) {
   .navbar-navbar-interactive {
