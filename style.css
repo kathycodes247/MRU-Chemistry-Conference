@@ -592,7 +592,7 @@ lic {
 }
 @media(max-width: 800px) {
   .thq-heading-1 {
-    font-size: 17px;
+    font-size: 24px;
   }
   .thq-section-padding {
     padding: var(--dl-space-space-threeunits);
@@ -632,6 +632,9 @@ lic {
   }
 }
 @media(max-width: 479px) {
+  .thq-heading-1 {
+    font-size: 12px;
+  }
   .thq-section-padding {
     padding: var(--dl-space-space-oneandhalfunits);
   }
