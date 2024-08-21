@@ -594,6 +594,9 @@ lic {
   .thq-heading-1 {
     font-size: 24px;
   }
+  .thq-body-large{
+    font-size:12px;
+  }
   .thq-section-padding {
     padding: var(--dl-space-space-threeunits);
   }
@@ -632,8 +635,11 @@ lic {
   }
 }
 @media(max-width: 479px) {
+  .thq-body-large{
+    font-size:12px;
+  }
   .thq-heading-1 {
-    font-size: 12px;
+    font-size: 17px;
   }
   .thq-section-padding {
     padding: var(--dl-space-space-oneandhalfunits);
