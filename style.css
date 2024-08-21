@@ -592,7 +592,7 @@ lic {
 }
 @media(max-width: 800px) {
   .thq-heading-1 {
-    font-size: 24px;
+    font-size: 17px;
   }
   .thq-section-padding {
     padding: var(--dl-space-space-threeunits);
