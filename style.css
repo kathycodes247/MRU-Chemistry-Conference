@@ -641,9 +641,6 @@ lic {
   .thq-body-large{
     font-size:8px;
   }
-  .thq-heading-1 {
-    font-size: 17px;
-  }
   .thq-section-padding {
     padding: var(--dl-space-space-oneandhalfunits);
   }
