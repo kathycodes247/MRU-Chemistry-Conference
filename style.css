@@ -592,10 +592,10 @@ lic {
 }
 @media(max-width: 767px) {
   .thq-heading-1 {
-    font-size: 17px;
+    font-size: 12px;
   }
   .thq-body-large{
-    font-size:12px;
+    font-size:8px;
   }
   .thq-section-padding {
     padding: var(--dl-space-space-threeunits);
@@ -636,7 +636,7 @@ lic {
 }
 @media(max-width: 479px) {
   .thq-body-large{
-    font-size:12px;
+    font-size:8px;
   }
   .thq-heading-1 {
     font-size: 17px;
