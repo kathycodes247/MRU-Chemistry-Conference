@@ -141,7 +141,7 @@ th {
   margin-top: var(--dl-space-space-twounits);
   align-items: center;
 }
-@media(max-width: 767px) {
+@media(max-width: 1000px) {
   .navbar-navbar-interactive {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
