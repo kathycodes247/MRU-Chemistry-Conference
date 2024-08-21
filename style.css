@@ -590,7 +590,7 @@ lic {
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
-@media(max-width: 767px) {
+@media(max-width: 991px) {
   .thq-heading-1 {
     font-size: 24px;
   }
