@@ -595,7 +595,7 @@ lic {
     font-size: 15px;
   }
   .thq-body-large{
-    font-size:12px;
+    font-size:10px;
   }
   .thq-section-padding {
     padding: var(--dl-space-space-threeunits);
@@ -637,7 +637,7 @@ lic {
 @media(max-width: 479px) {
   ]
   .thq-body-large{
-    font-size:12px;
+    font-size:10px;
   }
   .thq-section-padding {
     padding: var(--dl-space-space-oneandhalfunits);
