@@ -166,6 +166,9 @@ table {
         th {
             font-weight: bold;
         }
+        tr:nth-child(even) {
+           background-color: #dddddd;
+}
 
 h1c {
   text-align: center;
